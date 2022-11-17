@@ -1,4 +1,4 @@
-# Host [Miku MD](https://github.com/FantoX001/Miku-MD) from here
+# Host [Miku MD](https://github.com/FantoX001/Miku-MD) in any platform from here
 
 ### ✧✧ `Userland` Hosting guide (Android):
 
@@ -10,7 +10,6 @@
 ```
 wget -q0- https://raw.githubusercontent.com/FantoX001/Miku-MD-Host/main/installmiku.sh | bash
 ```
-<br>
 <br>
 
 ### ✧✧ How to stop bot:
