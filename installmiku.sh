@@ -5,7 +5,6 @@ sudo apt-get install libwebp-dev
 sudo apt install git
 sudo apt install nodejs -y
 sudo apt install ffmpeg -y
-sudo apt install wget
 sudo apt install npm
 sudo apt install imagemagick
 git clone https://github.com/FantoX001/Miku-MD
