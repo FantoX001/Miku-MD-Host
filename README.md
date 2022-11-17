@@ -1,3 +1,12 @@
+<p align="center">
+   <a href="https://github.com/FantoX001">
+    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
+     
+</p>
+  <br>
+
+
+
 # Host [Miku MD](https://github.com/FantoX001/Miku-MD) in any platform from here
 
 ### ✧✧ `Userland` Hosting guide (Android):
