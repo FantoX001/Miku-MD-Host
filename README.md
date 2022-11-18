@@ -17,7 +17,7 @@
 
 ✧ Next copy and paste this command in your UserLand's Debian Terminal. <br>
 ```
-wget -q0- https://raw.githubusercontent.com/FantoX001/Miku-MD-Host/main/installmiku.sh | bash
+wget -qO- https://raw.githubusercontent.com/FantoX001/Miku-MD-Host/main/installmiku.sh | bash
 ```
 <br>
 
