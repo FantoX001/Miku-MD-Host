@@ -15,5 +15,5 @@ curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 sudo apt-get install -y nodejs
 yarn add sharp
 cd Miku-MD
-npm i
+yarn install
 npm start
